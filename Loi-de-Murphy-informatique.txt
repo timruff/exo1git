@@ -1,0 +1,11 @@
+Loi de murphy sur l'informatique.
+
+À plus que les ordinateurs deviennent intelligents, à plus que c’est des emmerdeurs.
+
+Le prix d’un ordinateur baisse de 50% le lendemain de son achat.
+
+Tous les dix-huit mois, la vitesse des logiciels est divisée par deux.
+
+Les logiciels deviennent de plus en plus lent, et ceci plus vite que le hardware ne devient plus rapide.
+
+Tout ordinateur est obsolète au plus tard à son déballage.
